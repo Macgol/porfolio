@@ -1,0 +1,102 @@
+[
+  {
+    "id": "inbox-triage-assistant",
+    "title": "Inbox Triage Assistant",
+    "subtitle": "LLM-powered message classification",
+    "category": "AI & LLM",
+    "status": "In progress",
+    "role": "AI application contributor",
+    "summary": "A collaborative application that classifies and triages incoming messages with large language models, structured outputs and multi-provider workflows.",
+    "highlights": [
+      "Working with LLM APIs and prompt-based classification",
+      "Exploring structured output generation and validation",
+      "Implementing workflows across multiple LLM providers",
+      "Applying safe retry patterns, logging and evaluation concepts"
+    ],
+    "tech": ["Python", "LLM APIs", "Structured outputs", "Evaluation"],
+    "repo": "https://github.com/okwedavid/Inbox-triage-assistant",
+    "demo": "",
+    "accent": "mint",
+    "featured": true
+  },
+  {
+    "id": "log-search-and-analyzer",
+    "title": "Log Search and Analyzer",
+    "subtitle": "Searchable log intelligence, deployed",
+    "category": "Full-stack",
+    "status": "Deployed",
+    "role": "Frontend owner",
+    "summary": "A web application for searching and analysing application logs, with a complete user-facing interface built from the ground up.",
+    "highlights": [
+      "Built the application's entire frontend independently",
+      "Developed the interface with HTML, CSS and JavaScript",
+      "Worked with a Python/FastAPI backend and SQLite storage",
+      "Shipped through a Render deployment workflow"
+    ],
+    "tech": ["HTML5", "CSS3", "JavaScript", "FastAPI", "SQLite", "Render"],
+    "repo": "",
+    "demo": "https://two0-log-search-and-analyzer.onrender.com/",
+    "accent": "blue",
+    "featured": true
+  },
+  {
+    "id": "library-loans-api",
+    "title": "Library Loans API",
+    "subtitle": "Books, members and loans — done properly",
+    "category": "Backend & APIs",
+    "status": "Final development stages",
+    "role": "CI/CD & backend engineer",
+    "summary": "A collaborative backend service for library loan management, covering books, members, loans and the operations that connect them.",
+    "highlights": [
+      "Created the project's GitHub Actions workflows from scratch",
+      "Automated code-quality checks, type checking and testing",
+      "Worked with FastAPI, Pydantic, SQLAlchemy, PostgreSQL and Alembic",
+      "Containerised local development with Docker"
+    ],
+    "tech": ["Python", "FastAPI", "Pydantic", "SQLAlchemy", "PostgreSQL", "Alembic", "Docker", "GitHub Actions"],
+    "repo": "https://github.com/Chebemeze/library-loans-api",
+    "demo": "",
+    "accent": "violet",
+    "featured": true
+  },
+  {
+    "id": "harbour",
+    "title": "Harbour",
+    "subtitle": "Collaborative AI engineering capstone",
+    "category": "AI & LLM",
+    "status": "Ongoing",
+    "role": "Schema & architecture contributor",
+    "summary": "A multi-month capstone that turns weekly technical learning into a larger, collaboratively built AI engineering system.",
+    "highlights": [
+      "Assigned to generate the application's programs schema",
+      "Contributing to an evolving application architecture",
+      "Applying concepts from separate mini-projects to a larger system",
+      "Working within a structured, collaborative engineering process"
+    ],
+    "tech": ["Python", "Backend architecture", "AI systems", "Collaborative development"],
+    "repo": "https://github.com/Snrboi/harbour",
+    "demo": "",
+    "accent": "amber",
+    "featured": true
+  },
+  {
+    "id": "sky-watch-dashboard",
+    "title": "Sky Watch Dashboard",
+    "subtitle": "Weather, air quality and space in one view",
+    "category": "Full-stack",
+    "status": "Deployed",
+    "role": "Full-stack contributor",
+    "summary": "A unified dashboard combining weather, air quality, International Space Station tracking and NASA astronomy data.",
+    "highlights": [
+      "Aggregated multiple external data sources through a FastAPI backend",
+      "Built interactive views for forecasts, ISS tracking and space imagery",
+      "Used a React and TypeScript frontend with a structured API layer",
+      "Deployed the complete application on Render"
+    ],
+    "tech": ["Python", "FastAPI", "Pydantic", "React", "TypeScript", "Vite", "Tailwind CSS", "Render"],
+    "repo": "",
+    "demo": "https://skywatch-x6yn.onrender.com/",
+    "accent": "cyan",
+    "featured": true
+  }
+]
